@@ -21,22 +21,6 @@ Traditional forensic sketching is a time-intensive process that requires skilled
 
 ---
 
-## 📁 Project Structure
-
-```
-sketch-colorizer-gan/
-├── data/                   # Facial image dataset used for training (e.g., CUHK)
-├── models/                 # Generator and Discriminator code
-├── notebooks/
-│   └── train_gan.ipynb     # Jupyter Notebook used for training and testing
-├── outputs/                # Final generated portrait image(s)
-├── utils/                  # Helper functions for preprocessing, loss tracking, etc.
-├── requirements.txt        # List of dependencies
-└── README.md               # Project documentation
-```
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
